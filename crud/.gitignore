@@ -25,4 +25,5 @@
 npm-debug.log
 yarn-error.log
 readme.md
+.env
 ###< symfony/webpack-encore-bundle ###
